@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tatianaharvey
+- 🌱 I’m currently learning full stack web development 
+- 👀 I’m open for work. I am currently looking for a junior web developer position.
+- 📫 How to reach me: tatiana.harvey@icloud.com
